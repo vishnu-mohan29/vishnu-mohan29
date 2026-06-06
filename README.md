@@ -41,7 +41,7 @@ My passion lies in transforming raw data into meaningful insights, building dash
 
 | **Project**      | **Description**                                                                                  |
 |-------------------|--------------------------------------------------------------------------------------------------|
-| **[Project 1](https://github.com/)**    | Short Description |
+| **[Fast Food Nutrition Analytics (Power BI + SQL)](https://github.com/)**    | "Power BI + SQL project analyzing fast food nutrition to identify unhealthy patterns and deliver data-driven dietary insights |
 | **[Project 2](https://github.com/)**    | Short Description |
 | **[Project 3](https://github.com/)**    | Short Description | 
 
