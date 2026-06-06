@@ -7,19 +7,18 @@ After spending three years in the diving industry, I decided to transition into 
 My passion lies in transforming raw data into meaningful insights, building dashboards, and helping businesses make data-driven decisions.
 
 <a href="https://linkedin.com/in/YOUR-LINKEDIN-URL"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
 <details>
-  <summary>More about me</summary>- Name: Vishnu M
-- From: Kerala, India 🇮🇳
-- Aspiring Data Analyst
-- BBA Graduate (2021)
-- DataMites Certified Data Analyst
-- IABAC Certified Data Analyst
-- Passionate about Data Analysis, Business Intelligence, and Data Visualization.
-- Currently strengthening my SQL, Python, Excel, and Power BI skills through hands-on projects.
-- Looking for opportunities as a Data Analyst, Business Analyst, or Reporting Analyst.
+  <summary>More about me</summary>
 
-</details><br>---
+- **Name**: Vishnu Mohan
+- **From**:  Kerala, India 
+- **Aspiring Data Analyst** | **Certified in Data Analytics (DataMites)** | **IABAC Data Analyst**.
+- Skilled in SQL, Python, Excel, Power BI, and Statistics.
+- Passionate about turning data into actionable business insights.
+- Seeking opportunities as a Data Analyst or Business Analyst
+
+</details>
+<br>
 
 <h2 align=''>📊 Knowledge & Skills</h2><br><div align="left"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
