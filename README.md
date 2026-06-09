@@ -42,7 +42,7 @@ My passion lies in transforming raw data into meaningful insights, building dash
 | **Project**      | **Description**                                                                                  |
 |-------------------|--------------------------------------------------------------------------------------------------|
 | **[Fast Food Nutrition Analytics (Power BI + SQL)](https://github.com/vishnu-mohan29/Fast-Food-Nutrition-Analytics)**    | "Power BI + SQL project analyzing fast food nutrition to identify unhealthy patterns and deliver data-driven dietary insights |
-| **[Project 2](https://github.com/)**    | Short Description |
+| **[IPL-Data-Analytics](https://github.com/vishnu-mohan29/IPL-Data-Analytics/blob/main/README.md)**    |Analyzed IPL data (2008–2025) using Power BI to build an interactive dashboard delivering insights on team performance, player stats, and match trends. |
 | **[Project 3](https://github.com/)**    | Short Description | 
 
 ---
