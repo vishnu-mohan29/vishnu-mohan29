@@ -42,8 +42,8 @@ My passion lies in transforming raw data into meaningful insights, building dash
 | **Project**      | **Description**                                                                                  |
 |-------------------|--------------------------------------------------------------------------------------------------|
 | **[Fast Food Nutrition Analytics (Power BI + SQL)](https://github.com/vishnu-mohan29/Fast-Food-Nutrition-Analytics)**    | "Power BI + SQL project analyzing fast food nutrition to identify unhealthy patterns and deliver data-driven dietary insights |
-| **[IPL-Data-Analytics](https://github.com/vishnu-mohan29/IPL-Data-Analytics/blob/main/README.md)**    |Analyzed IPL data (2008–2025) using Power BI to build an interactive dashboard delivering insights on team performance, player stats, and match trends. |
-| **[Hospital Intelligence & Data Quality Analytics](https://github.com/vishnu-mohan29/Hospital-Intelligence-Data-Quality-Analytics/blob/main/README.md)**    | SQL-based analytics project focused on hospital operations, solving real business problems with data cleaning, outlier detection, and data quality improvement. | 
+| **[IPL-Data-Analytics (Power BI )](https://github.com/vishnu-mohan29/IPL-Data-Analytics/blob/main/README.md)**    |Analyzed IPL data (2008–2025) using Power BI to build an interactive dashboard delivering insights on team performance, player stats, and match trends. |
+| **[Hospital Intelligence & Data Quality Analytics (SQL)](https://github.com/vishnu-mohan29/Hospital-Intelligence-Data-Quality-Analytics/blob/main/README.md)**    | SQL-based analytics project focused on hospital operations, solving real business problems with data cleaning, outlier detection, and data quality improvement. | 
 
 ---
 
