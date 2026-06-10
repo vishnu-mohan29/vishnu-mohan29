@@ -6,7 +6,7 @@ After spending three years in the diving industry, I decided to transition into 
 
 My passion lies in transforming raw data into meaningful insights, building dashboards, and helping businesses make data-driven decisions.
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-URL"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/vishnu224/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <details>
   <summary>More about me</summary>
 
