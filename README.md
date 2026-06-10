@@ -20,7 +20,7 @@ My passion lies in transforming raw data into meaningful insights, building dash
 </details>
 <br>
 
-<h2 align=''>📊 Knowledge & Skills</h2><br><div align="left"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<h2 align=''> Knowledge & Skills</h2><br><div align="left"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
@@ -47,7 +47,7 @@ My passion lies in transforming raw data into meaningful insights, building dash
 
 ---
 
-<h2 align=''>🎯 Career Goal</h2>To leverage data analytics, business intelligence, and visualization skills to help organizations make informed decisions and drive business growth through data-driven insights.
+<h2 align=''> Career Goal</h2>To leverage data analytics, business intelligence, and visualization skills to help organizations make informed decisions and drive business growth through data-driven insights.
 
 ---
 
