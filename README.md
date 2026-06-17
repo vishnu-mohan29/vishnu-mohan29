@@ -1,10 +1,8 @@
 Hi there 👋
 
-I'm Vishnu Mohan, an aspiring Data Analyst with a background in Business Administration and professional experience as a Dive Master and Assistant Instructor.
+I'm Vishnu Mohan, Data Analyst with hands-on experience in SQL, Power BI, Excel, Python, and Tableau, gained through an internship and real-world reporting experience. Skilled in data cleaning, dashboard development, and KPI tracking to support data-driven decisions.
 
-After spending three years in the diving industry, I decided to transition into Data Analytics. I completed professional training in SQL, Python, Excel, Power BI, and Statistics through DataMites and earned my IABAC Data Analyst certification.
-
-My passion lies in transforming raw data into meaningful insights, building dashboards, and helping businesses make data-driven decisions.
+Previously worked as a Scuba Diving Assistant Instructor, managing operational data and reports, which strengthened my attention to detail and problem-solving skills. Passionate about turning data into meaningful insights and continuously improving my analytical abilities.
 
 <a href="https://www.linkedin.com/in/vishnu224/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <details>
